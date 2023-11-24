@@ -42,4 +42,9 @@ color: aliceblue; }
     font-family: sans-seri;
 }
       
-   
+.detl2{
+    justify-content: center;
+    width: 50px;
+    height: auto;
+
+}
